@@ -6,7 +6,7 @@
 <img src="profile.jpg" width="450px"/>
 </div>
 
-# Olá, Sejam Bem vindos! Me chamo Karina, atualmente entusiasta e estudante de Engenharia de Software. :computer:
+#- Sejam Bem vindos! Me chamo Karina, atualmente entusiasta e estudante de Engenharia de Software. :computer:
 
 <p align = "center">
 -  
